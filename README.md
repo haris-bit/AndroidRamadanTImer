@@ -1,1 +1,1 @@
-# AndroidRamadanTimer
+# Android Ramadan Timer
