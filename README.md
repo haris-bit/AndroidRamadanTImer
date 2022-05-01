@@ -2,7 +2,7 @@
 
 Android Ramadan Timer Application built using the Android Studio.
 
-![Ramadan Timer](/images/CalculatorImage.png "Ramadan Timer")
+![Ramadan Timer](/images/Timer.png "Ramadan Timer")
 
 ## Description
 
